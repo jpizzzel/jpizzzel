@@ -14,7 +14,7 @@ I'm a second‑year **Computer Engineering** student at **Tufts University** who
 
 ## 📚 Featured Projects & Experience
 
-All my major projects, and professional experience are shown on my portfolio:
+All of my relevant projects, and professional experience are shown on my portfolio:
 
 ➡️ **[jonahpflaster.me](https://www.jonahpflaster.me/)** ⬅️
 
