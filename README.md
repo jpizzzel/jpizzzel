@@ -27,7 +27,7 @@ All of my relevant projects, and professional experience are shown on my portfol
 
 When I’m not building something new, you’ll catch me:
 
-* Surfing the on the east coast 🌊
+* Surfing on the east coast 🌊
 * Skiing powder ⛷️
 * Playing fútbol or basketball 🌌
 
