@@ -1,38 +1,26 @@
-# Hi, I'm Jonah Pflaster <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hi, I'm Jonah Pflaster
 
-![Status](https://img.shields.io/badge/Computer%20Engineering-Tufts%20University-blueviolet) ![Interests](https://img.shields.io/badge/Focus-Embedded%20Systems%20%7C%20AI%20%7C%20Hardware-lightgrey)
+## About Me
+I’m a second-year Computer Engineering student at Tufts University who loves building things that blend hardware and software. From designing sensors for Engineers Without Borders to writing real-time firmware for an STM32, I enjoy turning ideas into working systems.
 
-## 🚀 About Me
+## Recent Projects
+- **Multi-Agent AI System** — end-to-end platform with an orchestrator, REST APIs, Postgres/Supabase, and containerized services that automate data enrichment and analysis  
+- **Student Life Manager (SLM)** — web app to organize tasks, schedules, and campus resources utilizing Canvas API and multiple GCP APIs/tools
+- **HandJam** — embedded music instrument on an STM32 Nucleo using ML, sensors, and real-time signal processing
 
-I'm a second‑year **Computer Engineering** student at **Tufts University** who loves building things that blend hardware and software. Whether it's soldering together a sensor for reading rainwater catchment for Engineers Without Borders, or writing real‑time firmware for an STM32 microcontroller, I thrive when working on exciting innovations.
+Learn more about these and other projects here: **https://www.jonahpflaster.me/projects**
 
-## 🌟 Recent Projects
+## Portfolio
+All projects and experience are on my site: **[jonahpflaster.me](https://www.jonahpflaster.me/)**
 
-* **AI‑Powered Modular CAD Project Builder** – leverages KittyCAD & ML‑Elephant APIs to auto‑draft CAD assemblies.
-* **QueueVibes** – real‑time collaborative music queue web app built with Next.js + Supabase + Stripe.
-* **CalendarConnect** – academic‑calendar aggregator helping 1,000+ students see breaks & exams at a glance.
+## Tech Toolbox
+`C` `C++` `Python` `TypeScript` `JavaScript` `React / Next.js`  
+`Embedded Systems` `Raspberry Pi` `SQL`
 
-## 📚 Featured Projects & Experience
+## Outside of Work
+I like to surf, ski, and play soccer or basketball.
 
-All of my relevant projects, and professional experience are shown on my portfolio:
-
-➡️ **[jonahpflaster.me](https://www.jonahpflaster.me/)** ⬅️
-
-## 🧰 Tech Toolbox
-
-`C` `C++` `Python` `TypeScript` `JavaScript` `React / Next.js`
-`Embedded Systems` `Raspberry Pi` `SQL`
-
-## 🏄‍♂️ Other
-
-When I’m not building something new, you’ll catch me:
-
-* Surfing on the east coast 🌊
-* Skiing powder ⛷️
-* Playing fútbol or basketball 🌌
-
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jonah-pflaster-195359218/) 
-📫 **Email:** [jonahpflaster23pj@gmail.com](mailto:jonahpflaster23pj@gmail.com)
-📝 **Resume:** Available on portfolio site
+## Connect
+**LinkedIn:** [jonah-pflaster-195359218](https://www.linkedin.com/in/jonah-pflaster-195359218/)  
+**Email:** [jonahpflaster23pj@gmail.com](mailto:jonahpflaster23pj@gmail.com)  
+**Resume:** Available on my portfolio site
