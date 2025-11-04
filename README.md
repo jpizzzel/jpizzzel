@@ -5,7 +5,7 @@ I’m a 3rd year Computer Engineering student at Tufts University who loves buil
 
 ## Recent Projects
 - **Multi-Agent AI System** — end-to-end platform with an orchestrator, REST APIs, Postgres/Supabase, and containerized services that automate data enrichment and analysis  
-- **Studentsync.org** — web app to organize tasks, schedules, and campus resources utilizing Canvas API and multiple GCP APIs/tools
+- **[Student Sync](https://studentsync.org)** — web app to organize tasks, schedules, and campus resources utilizing Canvas API and multiple GCP APIs/tools
 - **HandJam** — embedded music instrument on an STM32 Nucleo using ML, sensors, and real-time signal processing
 
 Learn more about these and other projects here: **https://www.jonahpflaster.me/projects**
