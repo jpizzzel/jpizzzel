@@ -4,7 +4,7 @@
 I’m a 3rd year Computer Engineering student at Tufts University who loves building things that blend hardware and software. From designing water level sensor systems for Engineers Without Borders to writing real-time firmware for an STM32, I enjoy turning ideas into working systems.
 
 ## Recent Projects
-- **Multi-Agent AI System** — end-to-end platform with an orchestrator, REST APIs, Postgres/Supabase, and containerized services that automate data enrichment and analysis  
+- **Multi-Agent AI System** — company and people end-to-end platform with an orchestrator, REST APIs, Postgres/Supabase, and containerized services that automate data enrichment and analysis  
 - **[Student Sync](https://studentsync.org)** — web app to organize tasks, schedules, and campus resources utilizing Canvas API and multiple GCP APIs/tools
 - **HandJam** — embedded music instrument on an STM32 Nucleo using ML, sensors, and real-time signal processing
 
