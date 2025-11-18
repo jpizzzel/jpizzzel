@@ -21,6 +21,6 @@ All projects and experience are on my site: **[jonahpflaster.me](https://www.jon
 I like to surf, ski, and play soccer or basketball.
 
 ## Connect
-**LinkedIn:** [jonah-pflaster](https://www.linkedin.com/in/jonah-pflaster/)  
+**LinkedIn:** [jonahpflaster]((https://www.linkedin.com/in/jonahpflaster/))  
 **Email:** [jonahpflaster23pj@gmail.com](mailto:jonahpflaster23pj@gmail.com)  
 **Resume:** Available on my portfolio site
